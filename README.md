@@ -29,4 +29,4 @@ through the rtnice program. You would need to show execution time of the
 process with and without the soft realtime guarantees. This should demonstrate
 to you if the modified scheduler is functioning or not.
 
-#KINDLY CHECK Writeup.pdf for the implementation details.
+# KINDLY CHECK Writeup.pdf for the implementation details.
